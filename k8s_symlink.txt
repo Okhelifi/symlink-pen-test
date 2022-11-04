@@ -1,0 +1,1 @@
+/opt/graviteeio-management-api/config/gravitee.yml
